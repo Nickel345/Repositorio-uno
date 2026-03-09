@@ -14,6 +14,11 @@ div {
     width: 50vw;
 }
 
+p {
+    background-color: rgb(233, 255, 255);
+    width: 50vw;
+}
+
 
 .divMorado {
     background-color: rgb(131, 65, 182);
@@ -101,4 +106,8 @@ div {
     height: 50%;
     top: -30%;
     left: 20%;
+}
+
+#Hab {
+    cursor: pointer;
 }
